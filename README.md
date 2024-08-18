@@ -5,4 +5,4 @@ This game was built on Unity.
 ## File architecture
 This repo contains the prototype(video of game), code and script of lunar exploration vr project.
 ## Scene
-![alt text](https://github.com/[Emilyhelin]/[Lunar-exploration-VR-project]/[main]/scene.jpg?raw=true)
+![scene](https://github.com/user-attachments/assets/4456bf37-7b4b-47ff-a4df-e6a4e0aece51)
