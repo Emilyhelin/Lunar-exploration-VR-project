@@ -3,5 +3,6 @@ As an astronaut, can you collect all the asteroid samples and return to the char
 ## Tool
 This game was built on Unity.
 ## File architecture
-This repo contains the prototype, code and script of lunar exploration vr project.
-
+This repo contains the prototype(video of game), code and script of lunar exploration vr project.
+## Scene
+![alt text](https://github.com/[Emilyhelin]/[Lunar-exploration-VR-project]/[main]/scene.jpg?raw=true)
