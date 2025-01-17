@@ -43,7 +43,8 @@ These are non-code files that contribute to the project's documentation or media
 - **.Media**: Visual and video assets (e.g., classroom image, demo video, presentation slides).
 - **.Documentation**: README.md and PDFs for project explanation and instructions.
 - **.Metadata**: Unity-generated files that handle asset management.
-### Moon Setting
-![scene](https://github.com/user-attachments/assets/4456bf37-7b4b-47ff-a4df-e6a4e0aece51)
-### Classroom Setting
-![classroom](https://github.com/Emilyhelin/Lunar-exploration-VR-project/blob/main/classroom.png)
+## Moon Setting
+<img src="https://github.com/user-attachments/assets/4456bf37-7b4b-47ff-a4df-e6a4e0aece51" alt="Moon Setting" width="500" height="300">
+
+## Classroom Setting
+<img src="https://github.com/Emilyhelin/Lunar-exploration-VR-project/blob/main/classroom.png" alt="Moon Setting" width="500" height="300">
