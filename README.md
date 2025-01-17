@@ -12,3 +12,4 @@ This repo contains the prototype(video of game), code and script of lunar explor
 ## Moon Setting
 ![scene](https://github.com/user-attachments/assets/4456bf37-7b4b-47ff-a4df-e6a4e0aece51)
 ## Classroom Setting
+![classroom](https://github.com/Emilyhelin/Lunar-exploration-VR-project/blob/main/classroom.png)
